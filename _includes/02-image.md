@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Developing](https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_960_720.png)
